@@ -1,0 +1,16 @@
+.container{
+    max-width: 768px;
+    width: 100%;
+}
+
+.hidden{
+    display: none;
+}
+
+.active{
+    display: block;
+}
+
+.activeMenu{
+    color: black;
+}
